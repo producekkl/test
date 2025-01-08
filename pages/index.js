@@ -7,7 +7,7 @@ export default function Home() {
       id: 1,
       title: "디자인의 미래",
       content: "현대적인 디자인 트렌드와 사용자 경험에 대한 깊이 있는 통찰력을 공유합니다.",
-      imageUrl: "https://elements-resized.envatousercontent.com/envato-dam-assets-production/EVA/TRX/21/97/34/7f/0a/v1_E10/E10770E0.JPG?w=1600&cf_fit=scale-down&mark-alpha=18&mark=https%3A%2F%2Felements-assets.envato.com%2Fstatic%2Fwatermark4.png&q=85&format=auto&s=52a14b60bd22c08829b4bb1ce775c230d854bc3f58aae927dd7b09236b3fb0b7",
+      imageUrl: "https://images.unsplash.com/photo-1542744173-8e7e53415bb0?q=80&w=1470&auto=format&fit=crop",
       category: "Design"
     },
     {
