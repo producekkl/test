@@ -34,7 +34,7 @@ export default function Home() {
       <header className="pt-16 pb-12 border-b border-gray-100">
         <div className="max-w-6xl mx-auto px-4">
           <h1 className="gradient-text text-5xl font-bold text-center leading-tight tracking-normal">
-            test page
+            카드 뉴스 시험관
           </h1>
         </div>
       </header>
